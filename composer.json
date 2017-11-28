@@ -1,5 +1,5 @@
 {
-    "name": "geekcom/validator-docs",
+    "name": "macromindonline/laravel-validator-docs",
     "description": "Biblioteca para validação de CPF, CNPJ e CNH",
     "license" : "MIT",
     "authors": [
